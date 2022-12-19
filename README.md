@@ -1,15 +1,15 @@
 # Bank-Account-Data
 This is a simple project using stored procedure/functions on data tables. This to demonstrate my ability to used stored functions
 Context 
-For this task, imagine you are working as a credit analyst for a banks overdraft product as of August 2020. We are in the midst of the Coronavirus pandemic and subsequent UK lockdown which has had an impact on the performance of Monzo’s overdraft portfolio. 
+For this task, imagine you are working as a credit analyst for a banks overdraft product as of August 2020. We are in the midst of the Coronavirus pandemic and subsequent UK lockdown which has had an impact on the performance of the banks’s overdraft portfolio. 
 Goal 
 You are asked to analyse the impacts of the Coronavirus pandemic on banks overdraft portfolio. We would like you to look into how the portfolio has changed as the UK was put into lockdown in March 2020 and what actions you think the business should take. 
-Please create a short presentation of no more than 8 slides with key insights into the health of the portfolio and your recommendation for next steps. Please provide the presentation in PDF format and include the SQL queries used to perform your analysis with the PDF (this doesn’t count towards the 8 slides mentioned above). 
+ 
 
 
 
 Data Tables 
-You are given two data tables to help with this analysis, these contain some example data of Monzo’s overdraft portfolio: 
+You are given two data tables to help with this analysis, these contain some example data of the Banks’s overdraft portfolio: 
 1. `accounts_sample` - A list of customers who have an overdraft enabled along with some key characteristics of them. 
 2. `monthly_performance` - One row per customer per month with performance data on how they are using their overdraft between January 2020 and July 2020. 
 Evaluation Criteria 
